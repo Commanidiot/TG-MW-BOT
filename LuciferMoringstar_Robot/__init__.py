@@ -15,14 +15,10 @@ HELP = """
  <b><i><a href="https://t.me/c/1637152283/2">Just Touch</a></i></b>"""
 
 ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥<b><i><u>𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 😍</u></i></b>
+# 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 - 𝑴𝒖𝒂𝒓𝒍𝒊 
+# 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 - 𝑷𝒚𝒕𝒉𝒐𝒏 
+# 𝑫𝒂𝒕𝒆𝒃𝒂𝒔𝒆 - 𝑴𝒐𝒏𝒈𝒐 𝒅𝒃 
+# 𝑨𝒑𝒑 𝒓𝒖𝒍𝒆 - 𝑯𝒆𝒓𝒌𝒖𝒐
+# 𝑴𝒂𝒊𝒏 𝒄𝒐𝒅𝒆 - 𝑮𝒊𝒕𝒉𝒖𝒃
 """
