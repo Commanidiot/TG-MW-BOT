@@ -12,7 +12,7 @@ from .Channel import (
 
 HELP = """
 <b><i><u>𝙈𝙊𝙑𝙄𝙀𝙎 𝙒𝙊𝙍𝙇𝘿 𝙏𝙍𝙀𝙀</u></i></b>
- <b><i><a href="https://t.me/c/1637152283/2">Just Touch</a></i></b>"""
+ <b><i><a href="https://t.me/movietreeinw/2">Just Touch</a></i></b>"""
 
 ABOUT = """
 ➥<b><i><u>𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 😍</u></i></b>
